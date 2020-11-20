@@ -14,8 +14,8 @@ Applets are used to implement GUI also responsilbe for the visual output.
 * java basics
 
 # PROJECT OUTPUT 
-
-![alt text](http://)
-
-
+![map](https://user-images.githubusercontent.com/54179846/99814786-7937db00-2b6f-11eb-897f-c003f6a50a57.png)
+the above image is what our output looks like. 
+However, while running our code in Eclipse and when viewed in applet user interface is more visible.
+We can zoom in and out upto the levels specified in code we can also hover around the markers and click on it to show the information about intensity of Earthquake in that specific location in world map.
 
